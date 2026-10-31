@@ -1,0 +1,1 @@
+int linear_search(int *arr, int len, int target);
